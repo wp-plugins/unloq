@@ -1,0 +1,19 @@
+.unloq-card {
+    max-width: 600px;
+    width: 100%;
+}
+.unloq-card table td input {
+    width: 100%;
+}
+.unloq-card table .option-key {
+    width: 120px;
+}
+.unloq-card .login-theme {
+    display: none;
+}
+.unloq-card select {
+    width: 100%;
+}
+.unloq-card p.submit {
+    margin-top: 0;
+}
